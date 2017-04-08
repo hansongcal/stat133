@@ -1,0 +1,15 @@
+---
+title: "Stat 133 Lab 8"
+author: "Hansong Zhang"
+date: "04/11/2017"
+output: 
+  html_document:
+    fig_height: 3
+    fig_width: 5
+---
+<!-- Don't edit in between this line and the one below -->
+```{r include=FALSE}
+# Don't delete this chunk if you are using the DataComputing package
+library(DataComputing)
+```
+This is my lab 8 file.
